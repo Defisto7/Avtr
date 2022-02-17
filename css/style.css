@@ -137,3 +137,30 @@ ul{
     line-height: 120%;
 
 }
+
+.premier{
+    margin-bottom: 150px;
+}
+.premier__inner{
+    display: flex;
+    gap: 60px;
+}
+
+.premier__text{
+    margin-bottom: 21px;
+}
+.premier__img{
+    margin-bottom: 20px;
+}
+.premier__btn{
+    display: block;
+    width: 100%;
+    color: #F402A2;
+    font-style: 18px;
+    line-height: 120%;
+    border: 1px solid #F402A2;
+    font-family: "Corporate-A-Bold";
+    text-transform: uppercase;
+    text-align: center;
+    padding: 14px;
+}
